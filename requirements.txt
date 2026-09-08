@@ -1,0 +1,3 @@
+streamlit   # ui interface for data apps
+langchain # framework for building LLM applications
+langchain-community # community extensions for langchain 
